@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "legacy_uid": "fb63bd3d-6f4d-40dc-821c-22f48975115c",
+  "instructors": {
+    "content": [
+      "847ba2b9-d810-11f3-02d7-a829ccd0da22"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "442c61e9-126e-5e02-9da4-c7858113ed48",
+    "website": "es-293-lego-robotics-spring-2007"
+  },
+  "course_title": "Lego Robotics",
+  "course_description": "LEGO\u00ae robotics uses LEGO\u00aes as a fun tool to explore robotics, mechanical systems, electronics, and programming. This seminar is primarily a lab experience which provides students with resources to design, build, and program functional robots constructed from LEGO\u00aes and a few other parts such as motors and sensors.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.293",
+  "course_image_thumbnail": {
+    "content": "1b2aa33d-2d90-d3c3-7ced-a03e0dc41181",
+    "website": "es-293-lego-robotics-spring-2007"
+  },
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "d82f1dc1-9b0b-49f7-a310-0d7188b0d91f",
+  "title": "Course Metadata"
+}
