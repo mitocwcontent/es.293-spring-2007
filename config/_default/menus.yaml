@@ -1,0 +1,33 @@
+leftnav:
+- identifier: ab35c551-9643-137d-12e7-368012c75ec0
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 665a7540-5499-31b1-c560-4f23a99c3a76
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 036c1983-7039-2671-43af-609365ee8161
+  name: Projects
+  url: /pages/projects/
+  weight: 30
+- identifier: d8b71cff-52fb-b07c-4797-39f781314cb4
+  name: Study Materials
+  url: /pages/study-materials
+  weight: 40
+- identifier: 64fb3db7-fee4-5b1b-3d49-7e084793d0f1
+  name: Tools
+  url: /pages/tools
+  weight: 50
+- identifier: 38557afb-40ab-6728-b24f-7cc2c02971a4
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 60
+- identifier: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
+  name: SP.285
+  url: /pages/sp.285/
+  weight: 70
+- identifier: 6643c3f8-8d87-a6da-661a-55e223b1acef
+  name: Image Gallery
+  url: /pages/image-gallery
+  weight: 80
